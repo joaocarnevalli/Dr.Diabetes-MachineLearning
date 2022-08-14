@@ -4,7 +4,7 @@ Objective: To develop a program based on the supervised machine learning techniq
 Challenge: How do I know if I have diabetes?
 
 ## Contents
-* [General Info](#general-info)
+* [General Info](#general)
 * [Parameters](#parameters)
 * [Technologies](#technologies)
 * [Setup](#setup)
