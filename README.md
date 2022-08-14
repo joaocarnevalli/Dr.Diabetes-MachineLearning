@@ -3,10 +3,19 @@ Checkpoint 4 of coding for security - Machine Learning - Dr. Diabetes
 
 ## Contents
 * [General Info](#general-info)
+* [Parameters](#parameters)
 * [Setup](#setup)
 * [Technologies](#technologies)
 
 - - - - - - - - - - - - - - - - - - -
 
 ## General
-This program aims to give a pre-diagnosis of diabetes based on the patient's glucose values ​​collected in three different states and situations. being: Casual State, post overload and fasting
+This program aims to give a pre-diagnosis of diabetes based on the patient's glucose values ​​collected in three different states and situations. They are: Casual State, post overload and fasting. 
+It can bring 3 different results.
+* Normal Glucose
+* Decreased Glucose
+* Diabtes Mellitus
+
+## Parameters
+* **Normal Glucose**
+######
