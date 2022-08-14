@@ -1,7 +1,7 @@
 # Machine Learning - Dr. Diabetes - Python #
 Checkpoint #4 of FIAP Coding For Security
-> Objective: To develop a program based on the supervised machine learning technique.
-> Challenge: How do I know if I have diabetes?
+> - Objective: To develop a program based on the supervised machine learning technique.
+> -  Challenge: How do I know if I have diabetes?
 
 ## Contents
 * [General Info](#general)
