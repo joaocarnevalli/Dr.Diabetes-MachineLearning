@@ -19,6 +19,6 @@ It can bring 3 different results.
 ## Parameters
 * **Normal Glucose**
 * Fasting:
-    less than 100mg/dL
+    - less than 100mg/dL
 * Pós Sobrecarga: 
-    Inferior a 140mg/dL
+    - Inferior a 140mg/dL
