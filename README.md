@@ -1,5 +1,7 @@
 # Machine Learning - Dr. Diabetes - Python #
-Checkpoint 4 of coding for security - Machine Learning - Dr. Diabetes
+Checkpoint #4 of FIAP Coding For Security
+Objective: To develop a program based on the supervised machine learning technique.
+Challenge: How do I know if I have diabetes?
 
 ## Contents
 * [General Info](#general-info)
@@ -12,9 +14,9 @@ Checkpoint 4 of coding for security - Machine Learning - Dr. Diabetes
 ## General
 This program aims to give a pre-diagnosis of diabetes based on the patient's glucose values ​​collected in three different states and situations. They are: Casual State, post overload and fasting. 
 It can bring 3 different results.
-* Normal Glucose
-* Decreased Glucose
-* Diabetes Mellitus
+* *Normal Glucose*
+* *Decreased Glucose*
+* *Diabetes Mellitus*
 
 ## Parameters
 * **Normal Glucose**
@@ -38,7 +40,6 @@ It can bring 3 different results.
         - Greater than or equal to 126mg/dL
     - Casual blood glucose:
         - greater than or equal to 200mg/dL
-
 * **Criteria for evaluation**
     - Fasting: No food intake for at least 8 hours
     - Post Overload: 2h after 75g of glucose
@@ -50,7 +51,7 @@ this project was made in [Python 3.10](https://www.python.org) using the [scikit
 
 ## Setup
 * 1 - Install [Python](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe)
-* 2 - Install [scikit-learn](https://scikit-learn.org/stable/install.html#)library
+* 2 - Install [scikit-learn](https://scikit-learn.org/stable/install.html#) library
 	- Open CMD
 	- Type `pip install -U scikit-learn` and run it
 * 3 - Download the `doctormachinelearning.py` and run it.
