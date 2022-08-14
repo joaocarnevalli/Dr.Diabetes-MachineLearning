@@ -14,11 +14,27 @@ This program aims to give a pre-diagnosis of diabetes based on the patient's glu
 It can bring 3 different results.
 * Normal Glucose
 * Decreased Glucose
-* Diabtes Mellitus
+* Diabetes Mellitus
 
 ## Parameters
 * **Normal Glucose**
     - Fasting:
         - less than 100mg/dL
-    - Pós Sobrecarga: 
+    - Post Overload: 
         - Inferior a 140mg/dL
+    - Casual blood glucose:
+        - less than 200mg/dL
+* **Decreased Glucose**
+    - Fasting:
+        - between 100 and 126 mg/dL
+    - Post Overload: 
+        - between 140 to 200mg/dL
+    - Casual blood glucose:
+        - less than 200mg/dL
+* **Diabetes mellitus**
+    - Fasting:
+        - Greater than or equal to 126mg/dL
+    - Post Overload:
+        - Greater than or equal to 126mg/dL
+    - Casual blood glucose:
+        -greater than or equal to 200mg/dL
