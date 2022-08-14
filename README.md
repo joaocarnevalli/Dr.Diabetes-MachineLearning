@@ -18,7 +18,6 @@ It can bring 3 different results.
 
 ## Parameters
 * **Normal Glucose**
-###### For the patient to fit this parameter, from glucose to:
 * Fasting:
     less than 100mg/dL
 * Pós Sobrecarga: 
