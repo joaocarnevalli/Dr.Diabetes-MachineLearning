@@ -1,61 +1,57 @@
-<p align="right"><a href="https://github.com/joaocarnevalli/CP4_ML_1TDCF/blob/main/README.md">English</a> | <strong>Português</strong> </p>
+# Machine Learning - Dr. Diabetes - Python
+Checkpoint #4 de Coding For security da FIAP
+> - Objectivo: Desenvolver  um  programa  baseado  na  técnica  deaprendizagem  de máquina supervisionada.
+> - Desafio: Como saber se tenho diabetes?
 
-# Machine Learning - Dr. Diabetes - Python #
-Checkpoint #4 of FIAP Coding For Security
-> - Objective: To develop a program based on the supervised machine learning technique.
-> -  Challenge: How do I know if I have diabetes?
-
-## Contents
-* [General Info](#general)
-* [Parameters](#parameters)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## Conteúdo
+* [Informações Gerais](#general)
+* [Parâmetros](#parâmetros)
+* [Tecnologias](#tecnologias)
+* [Configuração](#setup)
 
 - - - - - - - - - - - - - - - - - - -
 
-## General
-This program aims to give a pre-diagnosis of diabetes based on the patient's glucose values ​​collected in three different states and situations. They are: Casual State, post overload and fasting. 
-It can bring 3 different results.
-* *Normal Glucose*
-* *Decreased Glucose*
+## Geral
+Este programa visa fazer um pré-diagnóstico da diabetes com base nos valores de glicose do paciente recolhidos em três estados e situações diferentes. São elas: Estado casual, pós sobrecarga e jejum. 
+Pode trazer 3 resultados diferentes.
+* *Glicose normal*
+* *Glicose diminuída*
 * *Diabetes Mellitus*
 
-## Parameters
-* **Normal Glucose**
-    - Fasting:
-        - less than 100mg/dL
-    - Post Overload: 
+## Parâmetros
+* **Glicose normal**
+    - Em jejum:
+        - Inferior a 100mg/dL
+    - Pós Sobrecarga: 
         - Inferior a 140mg/dL
-    - Casual blood glucose:
-        - less than 200mg/dL
-* **Decreased Glucose**
-    - Fasting:
-        - between 100 and 126 mg/dL
-    - Post Overload: 
-        - between 140 to 200mg/dL
-    - Casual blood glucose:
-        - less than 200mg/dL
-* **Diabetes mellitus**
-    - Fasting:
-        - Greater than or equal to 126mg/dL
-    - Post Overload:
-        - Greater than or equal to 126mg/dL
-    - Casual blood glucose:
-        - greater than or equal to 200mg/dL
-* **Criteria for evaluation**
-    - Fasting: No food intake for at least 8 hours
-    - Post Overload: 2h after 75g of glucose
-    - Casual blood glucose: Performed at any time of day
-###### Source: [GlicOnline](https://gliconline.net/tenho-diabetes/)
+    - Glicemia Casual:
+        - Inferior de 200mg/dL
+* **Glicose diminuída**
+    - Em jejum:
+        - Entre 100 e 126 mg/dL
+    - Pós Sobrecarga: 
+        - Entre 140 a 200mg/dL
+    - Glicemia Casual:
+        - Inferior de 200mg/dL
+*Diabetes mellitus***
+    - Em jejum:
+        - Maior ou igual a 126mg/dL
+    - Pós Sobrecarga:
+        - Maior ou igual a 126mg/dL
+    - Glicemia Casual:
+        - Maior ou igual a 200mg/dL
+*Critérios para avaliação***
+    - Em jejum: Sem ingestão de alimentos há no minimo 8 horas
+    - Pós Sobrecarga: 2 horas após 75 gramas de glicose
+    - Glicemia Casual: Realizado em qualquer momento do dia
+###### Fonte: [GlicOnline](https://gliconline.net/tenho-diabetes/)
 
-## Technologies
-this project was made in [Python 3.10](https://www.python.org) using the [scikit-learn](https://scikit-learn.org/stable/) library
+## Tecnologias
+Este projeto foi realizado em [Python 3.10](https://www.python.org) usando a biblioteca [scikit-learn](https://scikit-learn.org/stable/)
 
-## Setup
-* 1 - Install [Python](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe)
-* 2 - Install [scikit-learn](https://scikit-learn.org/stable/install.html#) library
-	- Open CMD
-	- Type `pip install -U scikit-learn` and run it
-* 3 - Download the `doctormachinelearning.py` and run it.
-
-
+## Configuração
+* 1 - Instalar [Python](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe)
+* 2 - Instalar a biblioteca [scikit-learn](https://scikit-learn.org/stable/install.html#)
+	- Abra o CMD
+	- Digite `pip install -U scikit-learn` e execute-o
+* 3 - Descarregue o `doctormachinelearning.py` e execute-o
