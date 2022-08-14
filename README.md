@@ -37,4 +37,4 @@ It can bring 3 different results.
     - Post Overload:
         - Greater than or equal to 126mg/dL
     - Casual blood glucose:
-        -greater than or equal to 200mg/dL
+        - greater than or equal to 200mg/dL
