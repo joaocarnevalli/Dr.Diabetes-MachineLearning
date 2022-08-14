@@ -1,6 +1,6 @@
 # Machine Learning - Dr. Diabetes - Python
 Checkpoint #4 de Coding For security da FIAP
-> - Objectivo: Desenvolver  um  programa  baseado  na  técnica  deaprendizagem  de máquina supervisionada.
+> - Objetivo: Desenvolver  um  programa  baseado  na  técnica  deaprendizagem  de máquina supervisionada.
 > - Desafio: Como saber se tenho diabetes?
 
 ## Conteúdo
@@ -33,14 +33,14 @@ Pode trazer 3 resultados diferentes.
         - Entre 140 a 200mg/dL
     - Glicemia Casual:
         - Inferior de 200mg/dL
-*Diabetes mellitus***
+* **Diabetes mellitus**
     - Em jejum:
         - Maior ou igual a 126mg/dL
     - Pós Sobrecarga:
         - Maior ou igual a 126mg/dL
     - Glicemia Casual:
         - Maior ou igual a 200mg/dL
-*Critérios para avaliação***
+* **Critérios para avaliação**
     - Em jejum: Sem ingestão de alimentos há no minimo 8 horas
     - Pós Sobrecarga: 2 horas após 75 gramas de glicose
     - Glicemia Casual: Realizado em qualquer momento do dia
