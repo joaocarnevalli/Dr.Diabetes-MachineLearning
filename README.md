@@ -38,3 +38,6 @@ It can bring 3 different results.
         - Greater than or equal to 126mg/dL
     - Casual blood glucose:
         - greater than or equal to 200mg/dL
+
+## Technologies
+this project was made in [Python 3.10](https://www.python.org)
