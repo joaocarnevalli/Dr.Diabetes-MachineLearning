@@ -1,3 +1,4 @@
+<p align="right"><strong>English</strong> | <a href="https://github.com/joaocarnevalli/CP4_ML_1TDCF/blob/main/README.pt-br.md">Português</a></p>
 # Machine Learning - Dr. Diabetes - Python #
 Checkpoint #4 of FIAP Coding For Security
 > - Objective: To develop a program based on the supervised machine learning technique.
