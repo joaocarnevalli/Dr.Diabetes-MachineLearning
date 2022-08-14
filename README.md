@@ -4,8 +4,8 @@ Checkpoint 4 of coding for security - Machine Learning - Dr. Diabetes
 ## Contents
 * [General Info](#general-info)
 * [Parameters](#parameters)
-* [Setup](#setup)
 * [Technologies](#technologies)
+* [Setup](#setup)
 
 - - - - - - - - - - - - - - - - - - -
 
