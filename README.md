@@ -38,10 +38,11 @@ It can bring 3 different results.
         - Greater than or equal to 126mg/dL
     - Casual blood glucose:
         - greater than or equal to 200mg/dL
+        
 * **Criteria for evaluation**
-- Fasting: No food intake for at least 8 hours
-- Post Overload: 2h after 75g of glucose
-- asual blood glucose: Performed at any time of day
+    - Fasting: No food intake for at least 8 hours
+    - Post Overload: 2h after 75g of glucose
+    - asual blood glucose: Performed at any time of day
 ###### Source: [GlicOnline](https://gliconline.net/tenho-diabetes/)
 
 ## Technologies
