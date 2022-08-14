@@ -25,7 +25,7 @@ It can bring 3 different results.
     - Fasting:
         - less than 100mg/dL
     - Post Overload: 
-        - Inferior a 140mg/dL
+        - less than 140mg/dL
     - Casual blood glucose:
         - less than 200mg/dL
 * **Decreased Glucose**
