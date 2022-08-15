@@ -470,21 +470,21 @@ while True:
             # O usuario quer continuar utilizando o programa?
                 while True:
                     try:
-                        aswer = input("Would you like to make another query? ")
-                        aswer == aswer.lower()
-                        if aswer in positivo:
+                        answer = input("Would you like to make another query? ")
+                        answer == answer.lower()
+                        if answer in positivo:
                             fastprint("\nRestarting the program!")
                             break
-                        if aswer in negativo:
+                        if answer in negativo:
                             fastprint("\nThanks for using our solution")
                             break
                     except ValueError:
                         print("Type Yes or No")
-                if aswer in negativo:
+                if answer in negativo:
                     break
         else:
             fastprint("\nEnter the correct language!")
     except ValueError or SyntaxError:
         fastprint("\nEnter the correct language!")
-    if aswer in negativo:
+    if answer in negativo:
         break
