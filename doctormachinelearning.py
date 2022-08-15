@@ -90,7 +90,7 @@ while True:
         fastprint("\nSelect Language:\n(ptbr) - Portuguese\n(eng) - English US")
         lang = str(input("-: "))
         if lang == "ptbr" or lang =="PTBR":
-            fastprintmaisfast(f"\n{'-'*50}\n| Bem vindo ao nosso programa de pré-diagnóstico de Diabetes! |\n{'-'*50}\n")
+            fastprintmaisfast(f"\n{'-'*63}\n| Bem vindo ao nosso programa de pré-diagnóstico de Diabetes! |\n{'-'*63}\n")
             while True:
                 respostas = 0
                 value = 0
