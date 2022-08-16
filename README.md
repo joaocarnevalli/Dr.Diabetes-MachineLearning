@@ -5,14 +5,31 @@ Checkpoint #4 of FIAP Coding For Security
 > - Objective: To develop a program based on the supervised machine learning technique.
 > -  Challenge: How do I know if I have diabetes?
 
+- - - - - - - - - - - - - - - - - - -
 ## Contents
+* [Group](#group)
 * [General Info](#general)
 * [Parameters](#parameters)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 - - - - - - - - - - - - - - - - - - -
+## Group
+* João Pedro Zobolli Carnevalli
+    - [GitHub](@joaocarnevalli)
+    - [Linkedin](https://www.linkedin.com/in/joaopedrozobollicarnevalli/)
+    - [Twitch](https://www.twitch.tv/1joaolight)
+    - [E-mail] **joaocarnevalli.sec@gmail.com**
+* Renato Kim
+    - [GitHub](@renatokim18)
+    - [Linkedin](https://www.linkedin.com/in/renato-kim-722a69232/)
+* Gustavo Kondo
+    - [GitHub](@GustavoKondo)
+    - [Linkedin](https://www.linkedin.com/in/gustavo-kondo-torres/)
+* Kaiky Amaral
+    - [GitHub](@KekDisk)
 
+- - - - - - - - - - - - - - - - - - -
 ## General
 This program aims to give a pre-diagnosis of diabetes based on the patient's glucose values ​​collected in three different states and situations. They are: Casual State, post overload and fasting. 
 It can bring 3 different results.
@@ -20,6 +37,7 @@ It can bring 3 different results.
 * *Decreased Glucose*
 * *Diabetes Mellitus*
 
+- - - - - - - - - - - - - - - - - - -
 ## Parameters
 * **Normal Glucose**
     - Fasting:
@@ -48,9 +66,11 @@ It can bring 3 different results.
     - Casual blood glucose: Performed at any time of day
 ###### Source: [GlicOnline](https://gliconline.net/tenho-diabetes/)
 
+- - - - - - - - - - - - - - - - - - -
 ## Technologies
 this project was made in [Python 3.10](https://www.python.org) using the [scikit-learn](https://scikit-learn.org/stable/) library
 
+- - - - - - - - - - - - - - - - - - -
 ## Setup
 * 1 - Install [Python](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe)
 * 2 - Install [scikit-learn](https://scikit-learn.org/stable/install.html#) library
