@@ -16,18 +16,22 @@ Checkpoint #4 of FIAP Coding For Security
 - - - - - - - - - - - - - - - - - - -
 ## Group
 * **João Pedro Zobolli Carnevalli**
-    - [GitHub](https://github.com/joaocarnevalli) *@joaocarnevalli*
+    - [GitHub](https://github.com/joaocarnevalli) 
+        -*@joaocarnevalli*
     - [Linkedin](https://www.linkedin.com/in/joaopedrozobollicarnevalli/)
     - [Twitch](https://www.twitch.tv/1joaolight)
-    - **E-mail** **joaocarnevalli.sec@gmail.com**
+    - **E-mail** **joaocarnevalli.sec@gmail.com** `#RRGGBB`
 * **Renato Kim**
-    - [GitHub](https://github.com/renatokim18) *@renatokim18*
+    - [GitHub](https://github.com/renatokim18)
+        -*@renatokim18*
     - [Linkedin](https://www.linkedin.com/in/renato-kim-722a69232/)
 * **Gustavo Kondo**
-    - [GitHub](https://github.com/GustavoKondo) *@GustavoKondo*
+    - [GitHub](https://github.com/GustavoKondo)
+            -*@GustavoKondo*
     - [Linkedin](https://www.linkedin.com/in/gustavo-kondo-torres/)
 * **Kaiky Amaral**
-    - [GitHub](https://github.com/KekDisk) *@KekDisk*
+    - [GitHub](https://github.com/KekDisk)
+        -*@KekDisk*
 
 - - - - - - - - - - - - - - - - - - -
 ## General
