@@ -20,7 +20,7 @@ Checkpoint #4 of FIAP Coding For Security
         -*@joaocarnevalli*
     - [Linkedin](https://www.linkedin.com/in/joaopedrozobollicarnevalli/)
     - [Twitch](https://www.twitch.tv/1joaolight)
-    - **E-mail** **joaocarnevalli.sec@gmail.com** `#RRGGBB`
+    - **E-mail** **joaocarnevalli.sec@gmail.com** #RRGGBB
 * **Renato Kim**
     - [GitHub](https://github.com/renatokim18)
         -*@renatokim18*
