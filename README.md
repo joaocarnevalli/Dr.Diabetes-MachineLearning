@@ -16,7 +16,7 @@ Checkpoint #4 of FIAP Coding For Security
 - - - - - - - - - - - - - - - - - - -
 ## Group
 * **João Pedro Zobolli Carnevalli**
-    - [GitHub](https://github.com/joaocarnevalli) 
+    - [GitHub](https://github.com/joaocarnevalli)
         - *@joaocarnevalli*
     - [Linkedin](https://www.linkedin.com/in/joaopedrozobollicarnevalli/)
     - [Twitch](https://www.twitch.tv/1joaolight)
