@@ -1,7 +1,9 @@
 # Checkpoint 4 - Coding for security - Machine learning - scikit-learn - Dr. Diabetes
 # Desafio: Como saber se tenho diabetes?
-# Integrantes: João Pedro Zobolli Carnevalli RM:94587 (Fiz sozinho.)
-
+# Integrantes: João Pedro Zobolli Carnevalli     RM:94587 
+#              Renato Kim                        RM:94146
+#              Gustavo Kondo                     RM:95636
+#              Kaiky Amaral                      RM:93284
 
 # Importando as "Arvores" da biblioteca sklearn
 from sklearn import tree 
@@ -272,17 +274,17 @@ while True:
             # O usuario quer continuar utilizando o programa?
                 while True:
                     try:
-                        aswer = input("Gostaria de fazer outra consulta? ")
-                        aswer.lower()
-                        if aswer in positivo:
+                        answer = input("Gostaria de fazer outra consulta? ")
+                        answer.lower()
+                        if answer in positivo:
                             fastprint("\nReiniciando o programa!")
                             break
-                        if aswer in negativo:
+                        if answer in negativo:
                             fastprint("\nObrigado por usar nossa solução")
                             break
                     except ValueError:
                         print("Digite Sim ou Nao")
-                if aswer in negativo:
+                if answer in negativo:
                     break
 
         elif lang == "eng" or lang == "ENG":
