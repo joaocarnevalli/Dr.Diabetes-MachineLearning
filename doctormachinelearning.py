@@ -46,7 +46,7 @@ features = [
     [78, 123, 156], [83, 128, 166], [88, 133, 174], [93, 138, 186], [98, 134, 194], [99, 122, 198], [85, 139, 188],
     [79, 124, 158], [84, 129, 168], [89, 134, 178], [94, 139, 188], [99, 132, 196], [99, 124, 199], [86, 90, 189],
 
-#   Glicose diminuída
+#   Tolerancia Glicose diminuída
     [100, 140, 170], [110, 150, 180], [120, 160, 190], [90, 170, 160], [101, 180, 170], [124, 190, 150], [105, 200, 185],
     [101, 141, 171], [111, 151, 181], [121, 161, 191], [91, 171, 161], [114, 181, 171], [114, 191, 151], [105, 200, 195],
     [102, 142, 172], [112, 152, 182], [122, 162, 192], [92, 172, 162], [121, 182, 172], [111, 192, 152], [105, 200, 175],
@@ -87,6 +87,7 @@ classif.fit(features, labels) # Ajusta as labels respectivamente com as features
 diagnostico = False
 positivo = ["sim", "s", "Sim", "yes", "Yes", "y"]
 negativo = ["nao", "não", "n", "Não", "Nao", "no", "No"]
+answer = 'x'
 while True:
     try:
         fastprint("\nSelect Language:\n(ptbr) - Portuguese\n(eng) - English US")
@@ -97,8 +98,19 @@ while True:
                 respostas = 0
                 value = 0
                 fastprint("\nPara começarmos, informe seu nome")
-                nome = str(input("-: "))
+                while True:
+                    try:
+                        nome = str(input("-: "))
+                        if nome == "" or nome == " ":
+                            fastprint("\nValor errado!")
+                            fastprint("Digite seu nome\n")
+                        else:
+                            break
+                    except SyntaxError or ValueError:
+                        fastprint("Valor errado!")
+                        fastprint("Digite seu nome")
                 fastprint(f"\n\nOlá {nome}, Agora nos informe os níveis de glicemia coletados nas seguintes situações: ")
+            
 
             # Obtendo o valor em jejum
                 while True:
@@ -160,10 +172,10 @@ while True:
                         diag = str(input("Resposta: "))
                         diag = diag.upper()
                         if diag == "SIM" or diag == "S":
-                            print("Ok 1\n")
+                            slowprint("\nOk...\n")
                             diagnostico = True
                         else:
-                            print("Ok 2\n")
+                            slowprint("\nOk...\n")
                 elif predict == 1:                                      # Tolerancia diminuida
                     fastprint(f"\n{nome}, segundo nossa analise, você esta com a tolerância a glicose diminuída!\n")
                     diagnostico = True
@@ -294,7 +306,17 @@ while True:
                 respostas = 0
                 value = 0
                 fastprint("\nTo get started, enter your name")
-                nome = str(input("-: "))
+                while True:
+                    try:
+                        nome = str(input("-: "))
+                        if nome == "" or " ":
+                            fastprint("Wrong value!")
+                            fastprint("Enter your name")
+                        else:
+                            break
+                    except ValueError or SyntaxError:
+                            fastprint("Wrong value!")
+                            fastprint("Enter your name")
                 fastprint(f"\n\nHello {nome}, Now tell us the blood glucose levels collected in the following situations:")
 
         # Obtendo o valor em jejum
