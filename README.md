@@ -45,7 +45,7 @@ It can bring 3 different results.
 
 - - - - - - - - - - - - - - - - - - -
 ## Fluxogram
-![Fluxogram](https://user-images.githubusercontent.com/109440123/185503733-e098478c-1e86-4ccc-871c-ce62dbce61b8.png]
+![Fluxogram](https://user-images.githubusercontent.com/109440123/185503733-e098478c-1e86-4ccc-871c-ce62dbce61b8.png)
 
 - - - - - - - - - - - - - - - - - - -
 ## Parameters
