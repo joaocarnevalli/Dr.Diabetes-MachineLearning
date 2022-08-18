@@ -8,7 +8,8 @@ Checkpoint #4 de Coding For security da FIAP
 - - - - - - - - - - - - - - - - - - -
 ## Conteúdo
 * [Grupo](#grupo)
-* [Informações Gerais](#general)
+* [Informações Gerais](#geral)
+* [Fluxograma](#fluxograma)
 * [Parâmetros](#parâmetros)
 * [Tecnologias](#tecnologias)
 * [Configuração](#setup)
@@ -41,6 +42,10 @@ Pode trazer 3 resultados diferentes.
 * *Glicose normal*
 * *Glicose diminuída*
 * *Diabetes Mellitus*
+
+- - - - - - - - - - - - - - - - - - -
+## Fluxograma
+[Fluxograma](https://user-images.githubusercontent.com/109440123/185500255-b072d8e6-59a5-422a-b959-2ce96ce1edb5.png)
 
 - - - - - - - - - - - - - - - - - - -
 ## Parâmetros
