@@ -9,6 +9,7 @@ Checkpoint #4 of FIAP Coding For Security
 ## Contents
 * [Group](#group)
 * [General Info](#general)
+* [Fluxogram](#fluxogram)
 * [Parameters](#parameters)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -41,6 +42,10 @@ It can bring 3 different results.
 * *Normal Glucose*
 * *Decreased Glucose*
 * *Diabetes Mellitus*
+
+- - - - - - - - - - - - - - - - - - -
+## Fluxogram
+![Fluxogram](https://user-images.githubusercontent.com/109440123/185503733-e098478c-1e86-4ccc-871c-ce62dbce61b8.png]
 
 - - - - - - - - - - - - - - - - - - -
 ## Parameters
